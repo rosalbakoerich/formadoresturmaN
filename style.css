@@ -11,3 +11,11 @@ background-color: #F5E4E4;
     width: 135px;
     height: 131;
 }
+
+.cabecalho__menu {
+    display: inline;
+}
+
+.cabecalho__menu-item{
+    display: inline;
+}
